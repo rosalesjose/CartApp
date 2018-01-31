@@ -1,0 +1,7 @@
+C:\Users\Skeletor\source\repos\CartApp\CartApp\bin\Debug\CartApp.exe.config
+C:\Users\Skeletor\source\repos\CartApp\CartApp\bin\Debug\CartApp.exe
+C:\Users\Skeletor\source\repos\CartApp\CartApp\bin\Debug\CartApp.pdb
+C:\Users\Skeletor\source\repos\CartApp\CartApp\obj\Debug\CartApp.csprojResolveAssemblyReference.cache
+C:\Users\Skeletor\source\repos\CartApp\CartApp\obj\Debug\CartApp.csproj.CoreCompileInputs.cache
+C:\Users\Skeletor\source\repos\CartApp\CartApp\obj\Debug\CartApp.exe
+C:\Users\Skeletor\source\repos\CartApp\CartApp\obj\Debug\CartApp.pdb
